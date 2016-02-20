@@ -1,0 +1,26 @@
+{
+  "name": "textanalysisvisalization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisberry4545/TextAnalysisVisualization-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisberry4545/TextAnalysisVisualization-/issues"
+  },
+  "homepage": "https://github.com/chrisberry4545/TextAnalysisVisualization-#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "http-server": "^0.8.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1"
+  }
+}
